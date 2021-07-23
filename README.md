@@ -2,7 +2,7 @@
 
 I'm Rebecca. I make stuff.
 
-🤖 Recently I made a Discord chatbot. 
+🤖 Recently I made a Discord chatbot.  
 💬 I also made an image slicer for social media.
 
 ![tenor](https://user-images.githubusercontent.com/14946531/126849928-b067d21b-567f-41e9-ab05-accf6b3d6e17.gif)
