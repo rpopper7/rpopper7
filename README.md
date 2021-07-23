@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Rebecca and I make stuff.
+
+![tenor](https://user-images.githubusercontent.com/14946531/126849928-b067d21b-567f-41e9-ab05-accf6b3d6e17.gif)
+
+
 <!--
 **rpopper7/rpopper7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
